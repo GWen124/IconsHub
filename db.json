@@ -257,12 +257,6 @@
   ],
   "App Hub": [
     {
-      "name": "Apple",
-      "type": "jpeg",
-      "ext": ".jpeg",
-      "course": ""
-    },
-    {
       "name": "Bitwarden",
       "type": "png",
       "ext": ".png",
