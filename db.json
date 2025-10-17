@@ -2835,7 +2835,31 @@
   ],
   "Uncategorized": [
     {
+      "name": "Balloon",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Gift",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Iconfont",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Map",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Map_A",
       "type": "png",
       "ext": ".png",
       "course": ""
@@ -2866,6 +2890,12 @@
     },
     {
       "name": "Speedtest_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Time",
       "type": "png",
       "ext": ".png",
       "course": ""
