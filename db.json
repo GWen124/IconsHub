@@ -275,6 +275,12 @@
       "course": ""
     },
     {
+      "name": "FinalShell",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "GitHub_A",
       "type": "png",
       "ext": ".png",
@@ -341,6 +347,12 @@
       "course": ""
     },
     {
+      "name": "JingDong",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Safari",
       "type": "jpeg",
       "ext": ".jpeg",
@@ -350,6 +362,12 @@
       "name": "Taobao",
       "type": "jpeg",
       "ext": ".jpeg",
+      "course": ""
+    },
+    {
+      "name": "TianMao",
+      "type": "png",
+      "ext": ".png",
       "course": ""
     },
     {
