@@ -2871,6 +2871,12 @@
       "course": ""
     },
     {
+      "name": "GreasyFork",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Iconfont",
       "type": "png",
       "ext": ".png",
