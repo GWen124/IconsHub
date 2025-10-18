@@ -139,116 +139,6 @@
       "course": ""
     }
   ],
-  "Personal Websites": [
-    {
-      "name": "1Panel",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "AdGuard Home",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Alist",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "BT Panel",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "CloudDrive2",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Cloudreve",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "DDNS",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "DockerCopilot_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "DockerCopilot_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Duplicati",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Lucky",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Nextcloud",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Nezha Monitoring",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Nginx Proxy Manager",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Portainer",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Syncthing",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Watchtower",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "aapanel",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    }
-  ],
   "Social & Entertainment": [
     {
       "name": "Bilibili",
@@ -10972,6 +10862,116 @@
       "name": "节点小宝_A",
       "type": "svg",
       "ext": ".svg",
+      "course": ""
+    }
+  ],
+  "Personal Projects": [
+    {
+      "name": "1Panel",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "AdGuard Home",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Alist",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "BT Panel",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "CloudDrive2",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cloudreve",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "DDNS",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "DockerCopilot_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "DockerCopilot_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Duplicati",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Lucky",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nextcloud",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nezha Monitoring",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nginx Proxy Manager",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Portainer",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Syncthing",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Watchtower",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "aapanel",
+      "type": "png",
+      "ext": ".png",
       "course": ""
     }
   ]
