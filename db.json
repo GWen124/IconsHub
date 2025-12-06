@@ -2145,6 +2145,12 @@
       "course": ""
     },
     {
+      "name": "Myicon",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "R Star",
       "type": "jpeg",
       "ext": ".jpeg",
