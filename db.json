@@ -1,36 +1,4 @@
 {
-  "Personal Assets": [
-    {
-      "name": "及時行樂Logo",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "及時行樂Logo_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "及時行樂Logo_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "樂_圆",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "樂_方",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    }
-  ],
   "App Hub": [
     {
       "name": "Apple",
@@ -2082,12 +2050,6 @@
       "name": "Ball",
       "type": "jpg",
       "ext": ".jpg",
-      "course": ""
-    },
-    {
-      "name": "Ball_A",
-      "type": "png",
-      "ext": ".png",
       "course": ""
     },
     {
