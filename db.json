@@ -2487,6 +2487,12 @@
       "course": ""
     },
     {
+      "name": "Arcane_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Arch_A",
       "type": "png",
       "ext": ".png",
@@ -2608,6 +2614,12 @@
     },
     {
       "name": "B2cloud_storage_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Backrest_A",
       "type": "png",
       "ext": ".png",
       "course": ""
@@ -5427,6 +5439,12 @@
       "course": ""
     },
     {
+      "name": "Mindwendel_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Miniflux_A",
       "type": "png",
       "ext": ".png",
@@ -7401,6 +7419,12 @@
       "course": ""
     },
     {
+      "name": "Synology-surveillance-station_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Synology_A",
       "type": "png",
       "ext": ".png",
@@ -8469,6 +8493,12 @@
       "course": ""
     },
     {
+      "name": "Zulip_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "国家电网_A",
       "type": "png",
       "ext": ".png",
@@ -8494,6 +8524,24 @@
     },
     {
       "name": "节点小宝_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "飞牛同步_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "飞牛影视_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "飞牛相册_A",
       "type": "png",
       "ext": ".png",
       "course": ""
@@ -9355,6 +9403,12 @@
       "course": ""
     },
     {
+      "name": "Arcane_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "Arch_A",
       "type": "svg",
       "ext": ".svg",
@@ -9392,6 +9446,18 @@
     },
     {
       "name": "Autobrr_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Backrest_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Backrest_B",
       "type": "svg",
       "ext": ".svg",
       "course": ""
@@ -10238,6 +10304,12 @@
     },
     {
       "name": "Mindsdb_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Mindwendel_A",
       "type": "svg",
       "ext": ".svg",
       "course": ""
@@ -11102,6 +11174,18 @@
     },
     {
       "name": "Zimaos_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Zulip_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Zulip_B",
       "type": "svg",
       "ext": ".svg",
       "course": ""
